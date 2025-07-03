@@ -1,0 +1,28 @@
+name: tdac-seq
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - biopython
+  - crispresso2>=2.3
+  - hmmlearn
+  - mappy
+  - matplotlib
+  - numpy
+  - openpyxl
+  - pandas
+  - pip
+  - pybigwig
+  - pytest
+  - python>=3.12
+  - scikit-learn
+  - scipy
+  - seaborn
+  - tqdm
+  - umi_tools>=1
+  - scikit-image
+  - scikit-learn
+  - hmmlearn
+  - pyyaml
+  - mpmath
